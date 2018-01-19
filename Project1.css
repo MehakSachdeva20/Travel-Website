@@ -1,0 +1,27 @@
+body
+{
+  font-family: 'Kalam', cursive;
+  font-family: 'Lemon', cursive;
+  background-color: #E2A946 ;
+}
+
+.text-muted
+{
+  color:#D12698  ;
+
+}
+
+.text-danger
+{
+  color:#F30000;
+}
+
+.title-super
+{
+  font-size: 40px;
+}
+
+.title-logo
+{
+  margin-top: 15px;
+}
